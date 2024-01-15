@@ -30,7 +30,9 @@ The Financial Tracker project is a simple web application that allows users to i
 
 ## Getting Started
 
-1. **Clone the Repository:**
+1. **Frontend Setup:**
    ```bash
-   git clone https://github.com/your-username/financial-tracker.git
-   cd financial-tracker
+   cd frontend
+  npm install
+  npm start
+
