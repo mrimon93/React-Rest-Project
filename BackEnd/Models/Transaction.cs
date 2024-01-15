@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace BackEnd.Models
 {
-    public class Model
+    public class Transaction
     {
         
     }
