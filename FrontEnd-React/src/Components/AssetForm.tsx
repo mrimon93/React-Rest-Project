@@ -10,8 +10,6 @@ const AssetForm: React.FC = () => {
 
 
 
-
-
   return (
     <div>AssetForm</div>
   )
