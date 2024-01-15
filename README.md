@@ -33,6 +33,15 @@ The Financial Tracker project is a simple web application that allows users to i
 1. **Frontend Setup:**
    ```bash
    cd frontend
-  npm install
-  npm start
+   npm install
+   npm start
 
+  
+2. **Backend Setup:**
+   ```bash
+   cd BackEnd
+   dotnet run
+
+
+**Access the Application:**
+Open your browser and go to http://localhost:3000 to start using the Financial Tracker application.
