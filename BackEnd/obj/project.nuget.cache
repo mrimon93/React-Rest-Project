@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "z5cnC7A7qKvDglSXtOSTnpygP1ZhTuk2qFT5O/xST2x80xSN0GV1EeYWKfckitR9P5rJ3vMgenuWZbKwoy7MvQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Muzammil Kamaly\\Documents\\GitHub\\React-Rest-Project\\BackEnd\\BackEnd.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Muzammil Kamaly\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Muzammil Kamaly\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Muzammil Kamaly\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\Muzammil Kamaly\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Muzammil Kamaly\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Muzammil Kamaly\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
