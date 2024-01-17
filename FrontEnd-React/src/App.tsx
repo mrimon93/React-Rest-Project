@@ -1,17 +1,18 @@
 import { useState } from 'react';
 import './App.css';
+import AssetForm from './Components/AssetForm';
+import LiabilityForm from './Components/LiabilityForm';
+import DayDisplay from './Components/DayDisplay';
 
-function App() {
+const App: React.FC = () => {
   return (
-    <>
-      <div>
-        <button className="border border-green-500 text-green-500 hover:bg-green-500 hover:text-white px-4 py-2 rounded">
-          Welcome To the King Of Iron Fist Tournament
-        </button>
-      </div>
-      <h1 className='border border-red-600 px-2 py-2'> Hello Muzammil Kamaly</h1>
-    </>
+    <div>
+      <h1>Financial Tracker </h1>
+      <AssetForm />
+      <LiabilityForm />
+      <DayDisplay />
+    </div>
   );
-}
+};
 
 export default App;
