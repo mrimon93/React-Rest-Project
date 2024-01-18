@@ -11,14 +11,14 @@ const DayDisplay: React.FC = () => {
 
   useEffect(() => {
     fetchCurrentDay();
-  } [])
+  }, []);
 
 
 
   return (
     <div>
       <h2>Current Day</h2>
-      <p>[currentDay]</p>
+      <p>{currentDay}</p>
     </div>
   )
 }
