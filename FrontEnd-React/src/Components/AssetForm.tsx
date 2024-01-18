@@ -22,7 +22,4 @@ const AssetForm: React.FC = () => {
   )
 }
 
-
-
-
 export default AssetForm;
