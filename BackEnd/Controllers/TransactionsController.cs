@@ -15,7 +15,7 @@ namespace BackEnd.Controllers
 
     [ApiController]
 
-    public class ValuesController : ControllerBase
+    public class TransactionController : ControllerBase
     {
         public readonly TransactionService _transactionService;
 
