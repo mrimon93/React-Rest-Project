@@ -13,12 +13,12 @@ const AssetForm: React.FC = () => {
     <div>
       <h2>AssetForm</h2>
       <input 
-      type="number"
-      value={value}
-      onChange={(e) => setValue(Number(e.target.value))}
+        type="number"
+        value={value}
+        onChange={(e) => setValue(Number(e.target.value))}
       />
       <button onClick={handleInsertAsset}>Insert Asset</button>
-      </div>
+    </div>
   )
 }
 
