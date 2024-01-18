@@ -12,5 +12,6 @@ namespace FinancialTracker.Models
         public string ?Type { get; set; }
         public DateTime Date { get; set; }
         
+        
     }
 }
