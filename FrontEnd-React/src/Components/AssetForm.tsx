@@ -6,7 +6,7 @@ const AssetForm: React.FC = () => {
 
 
   const handleInsertAsset = async () => {
-    const response = await apiService.insertAsset(value);
+   await apiService.insertAsset(value);
   };
 
   return (
