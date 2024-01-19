@@ -23,3 +23,7 @@ app.UseAuthorization();
 app.MapControllers();
 
 app.Run();
+
+
+// Need to fix the api link here to able to fix
+// Currently researching about that (19 Jan 2024)

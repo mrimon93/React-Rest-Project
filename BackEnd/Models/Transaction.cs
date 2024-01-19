@@ -11,7 +11,5 @@ namespace FinancialTracker.Models
         public decimal Value { get; set; }
         public string ?Type { get; set; }
         public DateTime Date { get; set; }
-        
-        
     }
 }
