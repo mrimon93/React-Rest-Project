@@ -1,6 +1,6 @@
 import React from 'react'
 
-const API_BASE_URL = 'http://localhost:5000/api';
+const API_BASE_URL = 'http://localhost:7299/api';
 
 export const apiService = {
   
